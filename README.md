@@ -7,3 +7,9 @@
 5. [Memoir and Personal Essay: Write About Yourself Specialization](https://www.coursera.org/specializations/memoir-personal-essay)
 6. [How to Write and Publish a Scientific Paper (Project-Centered Course)](https://www.coursera.org/learn/how-to-write-a-scientific-paper)
 7. [Writing in the Sciences](https://online.stanford.edu/courses/som-y0010-writing-sciences)
+
+## Blogs/Websites
+
+1. [The Write Practice](https://thewritepractice.com/writing-practice)
+2. [Write and Improve](https://www.writeandimprove.com/)
+3. [Writing Exercises](https://www.writingexercises.co.uk)
